@@ -1,4 +1,4 @@
-# Makefile for one file c program
+# Makefile for multiple files c program
 
 #constants
 CC = clang
